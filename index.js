@@ -42,7 +42,7 @@ client.on('message', message => {
    }
 })
 
-client.login("NzYxNDk4NTgwODcxNTQ0ODUy.X3be0Q.zaE9v1jIXAAgdCeB43TvKTWcaKo");
+client.login("BOT TOKEN");
 
 function secondsToHms(seconds) {
   if (!seconds) return '';
